@@ -1,2 +1,4 @@
 1 Studying Github
 2 Studying workflow
+3 git add
+4 git commit
